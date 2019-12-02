@@ -45,6 +45,8 @@ All data used is from the MovieLens 20M datasets: https://grouplens.org/datasets
 
 ## Medium Blog Post
 
+https://medium.com/@johnson.h.kuan/how-to-build-a-simple-movie-recommender-system-with-tags-b9ab5cb3b616
+
 ## Summary of Results
 
 I was able to build a simple content-based movie recommender system with only MovieLens tags by answering three key business questions (see blog post for more details):
