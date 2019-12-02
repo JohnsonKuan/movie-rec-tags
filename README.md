@@ -1,6 +1,8 @@
 # movie-rec-tags
 Content-based movie recommender system using MovieLens tags
 
+Project 1 of the Udacity Data Scientist Nanodegree program: "Write a Data Science Blog Post"
+
 ## Python Libraries Used:
 
 * warnings
