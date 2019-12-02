@@ -65,6 +65,8 @@ I was able to build a simple content-based movie recommender system with only Mo
   * I demonstrated that we can compute a user vector based on the average of movie vectors that the user has watched
   * I demonstrated that we can use this user vector to find similar movies based on cosine similarity
   * These similar movies are the recommendations to the user
+  * I generated recommendations based on movies that I like
+  * The recommendations were suprisingly good considering that I only used MovieLens tags
 
 
 
