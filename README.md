@@ -57,8 +57,8 @@ I was able to build a simple content-based movie recommender system with only Mo
 2. How do we use tags to measure the similarity between movies?
 
     * I demonstrate two appproaches that were reasonble:
-    * Jaccard Distance of two sets of movie tags
-    * Cosine Similarity of Movie Vectors (aka Content Embeddings) based on tags
+     * Jaccard Distance of two sets of movie tags
+     * Cosine Similarity of Movie Vectors (aka Content Embeddings) based on tags
 
 3. How do we use tags to generate movie recommendations for a user?
 
