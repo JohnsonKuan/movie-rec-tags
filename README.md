@@ -1,20 +1,6 @@
 # movie-rec-tags
 Content-based movie recommender system using MovieLens tags
 
-## Python Libraries Used:
-
-* warnings
-* re
-* PIL
-* wordcloud
-* pandas
-* numpy
-* umap
-* matplotlib
-* seaborn
-* gensim
-* nltk
-
 ## Environment YAML File
 
 I included a conda YAML file for you to create the environment I used with all the libraries installed:
